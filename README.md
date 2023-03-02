@@ -23,10 +23,12 @@ Users should be able to:
 
 ### Screenshot
 
+![Screenshot 2023-03-02 184853](https://user-images.githubusercontent.com/69382363/222439774-96441586-1081-4dec-81ef-d6cfb4aaca35.png)
+
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://sunny-sfogliatella-cdd75c.netlify.app/
 
 ## My process
 
