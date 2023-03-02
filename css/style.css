@@ -160,6 +160,7 @@ main .content .top-content .top-left .text .read button {
   padding: 1rem 2rem;
   cursor: pointer;
   transition: all 0.2s;
+  text-transform: uppercase;
 }
 
 main .content .top-content .top-left .text .read button:hover {
